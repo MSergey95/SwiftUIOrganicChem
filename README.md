@@ -6,6 +6,7 @@ Features
 	•	Quiz: Engage with a multiple-choice quiz that asks users to identify the correct classification of compounds. Each quiz session consists of a set of random questions, with score tracking and feedback for correct/incorrect answers.
 	•	Settings: Customize the app experience, including light and dark mode themes.
 
+
 Technologies Used
 	•	SwiftUI: For building the user interface and providing a smooth, interactive experience.
 	•	PubChem API: Fetches real-time data on organic compounds, enabling dynamic content updates.
