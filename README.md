@@ -3,6 +3,7 @@ SwiftUIOrganicChemApp is an educational iOS application built using SwiftUI. The
 
 
 Features
+
 • Knowledge Base: Users can browse a collection of organic compounds with details such as name, classification, properties, and structural images.
 • Search Functionality: Search for compounds directly within the app, with data fetched from the PubChem API.
 • Quiz: Engage with a multiple-choice quiz that asks users to identify the correct classification of compounds. Each quiz session consists of a set of random questions, with score tracking and feedback for correct/incorrect answers.
@@ -27,4 +28,3 @@ Future Enhancements
 • Adding more quiz question types and options.
 • Allowing users to save their favorite compounds in a personalized list.
 • Expanding the knowledge base with additional details and properties for each compound.
-
