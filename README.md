@@ -29,13 +29,18 @@ Future Enhancements
 • Allowing users to save their favorite compounds in a personalized list.
 • Expanding the knowledge base with additional details and properties for each compound.
 
+Screenshots
 
-Screenshots  
-<img width="351" alt="q1" src="https://github.com/user-attachments/assets/fbbb976f-c6a3-4a59-aa86-2120ab256d56" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbbb976f-c6a3-4a59-aa86-2120ab256d56" alt="q1" width="350"/>
+</p>
 
-<img width="348" alt="q2" src="https://github.com/user-attachments/assets/e0ae7d9c-1700-4b54-b1d5-fd943f546337" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0ae7d9c-1700-4b54-b1d5-fd943f546337" alt="q2" width="350"/>
+</p>
 
-<img width="287" alt="example" src="https://github.com/user-attachments/assets/ce4dd98e-f242-4e4c-ae31-302af32fcc41" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce4dd98e-f242-4e4c-ae31-302af32fcc41" alt="example" width="280"/>
+</p>
 
 
